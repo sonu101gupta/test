@@ -1,0 +1,6 @@
+{{#user}}
+Name: Sonu Gupta
+Skills: HTML, CSS, JS, ReactJS, Stremlit,SQL, Java , CPP, Python
+Email: sonu01gupta2703@gmail.com
+{{/user}}
+ 
